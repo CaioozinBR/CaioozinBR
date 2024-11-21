@@ -1,4 +1,4 @@
-Caio Henrique, 15 years old🇧🇷
+Caio Henrique, 18 years old
 <div>
   <a href="https://github.com/caioozinbr">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caioozinbr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
